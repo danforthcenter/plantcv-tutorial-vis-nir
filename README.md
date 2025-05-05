@@ -10,9 +10,7 @@ Image: Images can be processed regardless of what type of VIS camera was used (h
 Output directory: If debug mode is set to 'print' output images from each intermediate step are produced.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-vis-nir/HEAD?labpath=index.ipynb)
-<a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-vis-nir.git">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+
 ![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)(https://github.com/danforthcenter/plantcv-tutorial-vis-nir.git)
 
 
