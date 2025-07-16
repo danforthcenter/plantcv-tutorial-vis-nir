@@ -11,7 +11,7 @@ Output directory: If debug mode is set to 'print' output images from each interm
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-vis-nir/HEAD?labpath=index.ipynb)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-vis-nir/blob/main/index-Colab.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-vis-nir/blob/main/index_Colab.ipynb)
 
 
 ## Tutorial tags/keywords
