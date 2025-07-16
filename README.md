@@ -11,8 +11,6 @@ Output directory: If debug mode is set to 'print' output images from each interm
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-vis-nir/HEAD?labpath=index.ipynb)
 
-![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)(https://github.com/danforthcenter/plantcv-tutorial-vis-nir.git)
-
 
 ## Tutorial tags/keywords
 
