@@ -2,7 +2,7 @@
 
 [![test-pr](https://github.com/danforthcenter/plantcv-tutorial-vis-nir/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-vis-nir/actions/workflows/ci-tests.yml)
 
-For dual VIS/NIR workflows, a visible image is used to identify an image mask for the plant material. The get nir function is used to get the NIR image that matches the VIS image (must be in same folder, with similar naming scheme), then functions are used to size and place the VIS image mask over the NIR image. This allows two workflows to be done at once and also allows plant material to be identified in low-quality images. We do not recommend this approach if there is a lot of plant movement between capture of NIR and VIS images.
+For dual VIS/NIR workflows, a color (VIS) image is used to identify an image mask for the plant material. The workflow reads in the NIR image that matches the VIS image (must be in same folder, with similar naming scheme), then a warp transformation is used to align the VIS image mask to the NIR image. This allows two workflows to be done at once and also allows plant material to be identified in low-quality images. We do not recommend this approach if there is a lot of plant movement between capture of NIR and VIS images.
 
 To run a VIS/NIR workflow over a single VIS image there are two required inputs:
 
